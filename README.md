@@ -15,3 +15,4 @@ This Repository provides Visulatization of 4 Basic Page Replacement Algorithms :
 2. Enter page ids. space seperated.
 3. Select method of Page Replacement from dropdown.
 4. Click onn Build Schedule.
+![image](https://user-images.githubusercontent.com/76638140/183146175-44cbbccc-144a-46b3-9172-366908621284.png)
